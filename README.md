@@ -19,6 +19,9 @@ Code for project 1: Amazonsalesproject.py
 -Feature Engineering (Created time-based fields: month_year, week_year, and year)
 -Created data visualizations to present customer payment behavior and revenue trends for investor insights.
 
+Code for project 2: E-commerce Analytics.py
+
+
 
 
 
